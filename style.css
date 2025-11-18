@@ -13,7 +13,7 @@ body{
     border-radius: 15px;
     max-width: 19em;
     overflow: hidden;
-    height: 93%;
+    height: 80%;
     
 
 
@@ -64,4 +64,5 @@ button:active{
 }
 .operator-btn:active{
     background-color: rgb(238, 156, 4);
+
 }
